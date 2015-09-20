@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">QuickPay</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="balance">Current Balance $$</string>
+    <string name="dollar">1</string>
+    <string name="amount">Transfer Amount $$</string>
+    <string name="recipient">Recipient</string>
+    <string name="pay">Make Payment</string>
+
+    <string name="username">Username</string>
+    <string name="card">Credit/Debit Card Number</string>
+    <string name="number">XXX</string>
+    <string name="name">Full Name</string>
+    <string name="exp_date">Expiry Date</string>
+    <string name="date">mm/dd/yyyy</string>
+    <string name="buffer">Shareable Amount</string>
+    <string name="register">Register</string>
+    <string name="title_activity_transfer">TransferActivity</string>
+    <string name="bank">Bank Name</string>
+    <string name="cvv">CVV Number</string>
+
+
+</resources>
